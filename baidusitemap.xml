@@ -1,374 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-
-    
   <url>
     <loc>https://www.kyy1996.com/2018/12/08/%E5%9C%A8%E9%98%85%E6%96%87%E7%9A%84%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%B4%BB.html</loc>
     <lastmod>2018-12-08T10:43:13.477Z</lastmod>
-    <data>
-        <display>
-        <title>在阅文的实习生活</title>
-        <pubTime>2018-12-08T10:36:07.000Z</pubTime>
-        
-        <tag>阅文集团</tag>
-         
-        <tag>实习</tag>
-         
-        <tag>毕业</tag>
-         
-        <tag>微服务</tag>
-         
-         
-           
-             
-              <breadCrumb title="谈生活" url="https://www.kyy1996.com/categories/%E8%B0%88%E7%94%9F%E6%B4%BB/"/>
-          
-             
-              <breadCrumb title="心得分享" url="https://www.kyy1996.com/categories/%E8%B0%88%E7%94%9F%E6%B4%BB/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://www.kyy1996.com/2017/04/12/JS%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80.html</loc>
     <lastmod>2018-12-08T09:54:41.945Z</lastmod>
-    <data>
-        <display>
-        <title>JS面向对象程序设计基础</title>
-        <pubTime>2017-04-11T16:00:00.000Z</pubTime>
-        
-        <tag>谈技术</tag>
-         
-        <tag>JS开发</tag>
-         
-         
-           
-             
-              <breadCrumb title="精通JS开发教程" url="https://www.kyy1996.com/categories/%E7%B2%BE%E9%80%9AJS%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://www.kyy1996.com/2018/04/15/%E5%9C%A8Mac%E4%B8%8B%E6%90%AD%E5%BB%BAPHP%E7%BD%91%E7%AB%99%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83.html</loc>
     <lastmod>2018-12-08T09:30:30.835Z</lastmod>
-    <data>
-        <display>
-        <title>在Mac下搭建PHP网站运行环境</title>
-        <pubTime>2018-04-15T11:37:51.000Z</pubTime>
-        
-        <tag>谈技术</tag>
-         
-        <tag>PHP</tag>
-         
-        <tag>Mac</tag>
-         
-        <tag>brew</tag>
-         
-        <tag>xampp</tag>
-         
-        <tag>网站开发</tag>
-         
-         
-           
-             
-              <breadCrumb title="心得分享" url="https://www.kyy1996.com/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://www.kyy1996.com/2018/04/03/%E5%9C%A8Mac%E4%B8%8B%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2.html</loc>
     <lastmod>2018-12-08T09:30:18.090Z</lastmod>
-    <data>
-        <display>
-        <title>在Mac下搭建Hexo博客</title>
-        <pubTime>2018-04-03T09:35:31.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-        <tag>mac</tag>
-         
-        <tag>node</tag>
-         
-        <tag>搭建博客</tag>
-         
-         
-           
-             
-              <breadCrumb title="心得分享" url="https://www.kyy1996.com/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://www.kyy1996.com/2018/03/10/Python%E5%9B%BE%E5%BD%A2%E5%BA%93%E5%9F%BA%E7%A1%80.html</loc>
     <lastmod>2018-12-08T09:30:07.693Z</lastmod>
-    <data>
-        <display>
-        <title>Python图形库基础</title>
-        <pubTime>2018-03-10T06:00:00.000Z</pubTime>
-        
-        <tag>Python</tag>
-         
-        <tag>大数据</tag>
-         
-        <tag>数据挖掘</tag>
-         
-        <tag>图形</tag>
-         
-        <tag>可视化</tag>
-         
-         
-           
-             
-              <breadCrumb title="Python" url="https://www.kyy1996.com/categories/Python/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://www.kyy1996.com/2017/04/07/PHP%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91-%E7%AC%AC%E5%9B%9B%E8%AE%B2%20PHP%E9%AD%94%E6%9C%AF%E6%96%B9%E6%B3%95%E4%B8%8E%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86%E6%A8%A1%E5%9D%97%E7%9A%84%E5%BC%80%E5%8F%91.html</loc>
     <lastmod>2018-12-08T09:29:55.658Z</lastmod>
-    <data>
-        <display>
-        <title>PHP框架开发-第四讲 PHP魔术方法与配置管理模块的开发</title>
-        <pubTime>2017-04-06T23:35:24.000Z</pubTime>
-        
-        <tag>谈技术</tag>
-         
-        <tag>PHP框架开发</tag>
-         
-        <tag>PHP</tag>
-         
-         
-           
-             
-              <breadCrumb title="PHP框架开发" url="https://www.kyy1996.com/categories/PHP%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://www.kyy1996.com/2017/03/17/PHP%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91-%E7%AC%AC%E4%BA%8C%E8%AE%B2%20PHP%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.html</loc>
     <lastmod>2018-12-08T09:29:41.956Z</lastmod>
-    <data>
-        <display>
-        <title>PHP框架开发-第二讲 PHP面向对象</title>
-        <pubTime>2017-03-17T08:11:03.000Z</pubTime>
-        
-        <tag>谈技术</tag>
-         
-        <tag>PHP框架开发</tag>
-         
-         
-           
-             
-              <breadCrumb title="PHP框架开发" url="https://www.kyy1996.com/categories/PHP%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://www.kyy1996.com/2017/03/24/PHP%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91-%E7%AC%AC%E4%B8%89%E8%AE%B2%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1trait%E4%B8%8E%E8%B7%AF%E7%94%B1%E5%99%A8%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.html</loc>
     <lastmod>2018-12-08T09:29:20.115Z</lastmod>
-    <data>
-        <display>
-        <title>PHP框架开发-第三讲 面向对象trait与路由器实现原理</title>
-        <pubTime>2017-03-24T08:11:03.000Z</pubTime>
-        
-        <tag>谈技术</tag>
-         
-        <tag>PHP框架开发</tag>
-         
-        <tag>PHP</tag>
-         
-         
-           
-             
-              <breadCrumb title="PHP框架开发" url="https://www.kyy1996.com/categories/PHP%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://www.kyy1996.com/2017/03/10/PHP%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91-%E7%AC%AC%E4%B8%80%E8%AE%B2%20PHP%E6%A1%86%E6%9E%B6%E5%AF%BC%E8%AE%BA.html</loc>
     <lastmod>2018-12-08T09:25:50.453Z</lastmod>
-    <data>
-        <display>
-        <title>PHP框架开发-第一讲 PHP框架导论</title>
-        <pubTime>2017-03-10T08:00:00.000Z</pubTime>
-        
-        <tag>谈技术</tag>
-         
-        <tag>PHP框架开发</tag>
-         
-         
-           
-             
-              <breadCrumb title="PHP框架开发" url="https://www.kyy1996.com/categories/PHP%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://www.kyy1996.com/2017/04/21/PHP%E5%9F%BA%E7%A1%80-%E5%AE%89%E8%A3%85%E4%B8%8E%E8%AF%AD%E6%B3%95.html</loc>
     <lastmod>2018-12-08T09:25:04.521Z</lastmod>
-    <data>
-        <display>
-        <title>PHP基础-安装与语法</title>
-        <pubTime>2017-04-20T16:02:24.000Z</pubTime>
-        
-        <tag>谈技术</tag>
-         
-        <tag>PHP框架开发</tag>
-         
-         
-           
-             
-              <breadCrumb title="PHP框架开发" url="https://www.kyy1996.com/categories/PHP%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://www.kyy1996.com/2018/03/11/MariaDB%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.html</loc>
     <lastmod>2018-12-08T09:24:43.587Z</lastmod>
-    <data>
-        <display>
-        <title>MariaDB安装说明</title>
-        <pubTime>2018-03-11T08:00:00.000Z</pubTime>
-        
-        <tag>PHP</tag>
-         
-        <tag>MariaDB</tag>
-         
-        <tag>数据库</tag>
-         
-        <tag>MySQL</tag>
-         
-        <tag>SQL</tag>
-         
-         
-           
-             
-              <breadCrumb title="MariaDB/MySQL" url="https://www.kyy1996.com/categories/MariaDB-MySQL/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://www.kyy1996.com/2017/02/27/HTML%E5%9F%BA%E7%A1%80-%E7%AC%AC%E4%BA%8C%E8%AE%B2.html</loc>
     <lastmod>2018-12-08T09:24:29.775Z</lastmod>
-    <data>
-        <display>
-        <title>HTML基础教程-第二讲</title>
-        <pubTime>2017-02-27T02:00:00.000Z</pubTime>
-        
-        <tag>HTML基础教程</tag>
-         
-        <tag>谈技术</tag>
-         
-         
-           
-             
-              <breadCrumb title="HTML基础教程" url="https://www.kyy1996.com/categories/HTML%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://www.kyy1996.com/2017/02/16/HTML%E5%9F%BA%E7%A1%80-%E7%AC%AC%E4%B8%80%E8%AE%B2.html</loc>
     <lastmod>2018-12-08T09:24:20.334Z</lastmod>
-    <data>
-        <display>
-        <title>HTML基础教程-第一讲</title>
-        <pubTime>2017-02-16T03:45:19.000Z</pubTime>
-        
-        <tag>HTML基础教程</tag>
-         
-        <tag>谈技术</tag>
-         
-         
-           
-             
-              <breadCrumb title="HTML基础教程" url="https://www.kyy1996.com/categories/HTML%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://www.kyy1996.com/2018/03/02/Bootstrap%E4%B8%8E%E5%93%8D%E5%BA%94%E5%BC%8F%E5%B8%83%E5%B1%80.html</loc>
     <lastmod>2018-12-08T09:24:06.994Z</lastmod>
-    <data>
-        <display>
-        <title>Bootstrap与响应式布局初步</title>
-        <pubTime>2018-03-02T04:45:19.000Z</pubTime>
-        
-        <tag>Bootstrap</tag>
-         
-        <tag>前端框架</tag>
-         
-        <tag>响应式布局</tag>
-         
-        <tag>HTML</tag>
-         
-         
-           
-             
-              <breadCrumb title="Bootstrap" url="https://www.kyy1996.com/categories/Bootstrap/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-    
-    
-  <url>
+  </url>  <url>
     <loc>https://www.kyy1996.com/2017/02/15/hello-world.html</loc>
     <lastmod>2018-03-28T10:59:12.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-02-15T15:07:04.000Z</pubTime>
-        
-        <tag>日常</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-    
+  </url>
 </urlset>
