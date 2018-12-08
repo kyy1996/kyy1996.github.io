@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /admin/
+# Disallow: /js/
+# Disallow: /css/
+# Disallow: /fonts/
+Disallow: /vendors/
+# Disallow: /fancybox/
+
+Sitemap: http://www.kyy1996.com/sitemap.xml
+Sitemap: http://www.kyy1996.com/baidusitemap.xml
